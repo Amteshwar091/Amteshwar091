@@ -10,9 +10,9 @@
 
 A fresher with a strong passion for **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**. My focus spans the full data lifecycle - from cleaning and visualizing complex datasets to building intelligent applications powered by **Generative AI**.
 
-I specialize in developing LLM-driven systems using **LangChain**, building multi-agent workflows with **CrewAI**, and translating raw data into actionable insights through **SQL**, **Power BI**, and **Tableau**. I enjoy working at the intersection of AI and data - where intelligent agents meet real business problems.
+I specialize in developing LLM-driven systems using **LangChain** and **LangGraph**, building multi-agent workflows with **CrewAI**, and creating interactive web applications with **Streamlit** - while translating raw data into actionable insights through **SQL**, **Power BI**, **Excel** and **Tableau**. I enjoy working at the intersection of AI and data - where intelligent agents meet real business problems.
 
-I am constantly upskilling and currently exploring **AgenticAI**, agentic workflows using **CrewAI** and **Model Context Protocol (MCP)** to build autonomous systems..
+I am constantly upskilling and currently exploring **AgenticAI**, agentic workflows using **CrewAI** and **Model Context Protocol (MCP)** to build autonomous systems.
 
 ---
 
