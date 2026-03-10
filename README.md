@@ -1,72 +1,118 @@
 <div align="center">
-  
-  <h1 align="center">Hi, I'm Amteshwar Singh 👋</h1>
-  
-  <h3>Python Developer | Generative AI Enthusiast | ML/DL Practitioner</h3>
-  
 
-  
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Amteshwar%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Generative%20AI%20Enthusiast%20%E2%80%A2%20Python%20Developer%20%E2%80%A2%20ML%2FDL%20Practitioner&descAlignY=58&descSize=18&animation=fadeIn" />
+
 </div>
 
 ---
 
-###  About Me
+## About Me
 
-An aspiring AI Engineer passionate about **Machine Learning** and **Generative AI**. I have gained hands-on experience orchestrating complex LLM workflows using **LangChain** and **LangGraph**, and building interactive web applications using **Streamlit**.
+A fresher with a strong passion for **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**. My focus spans the full data lifecycle - from cleaning and visualizing complex datasets to building intelligent applications powered by **Generative AI**.
 
-I am constantly upskilling and currently exploring AgenticAI, agentic workflows using **CrewAI** and **Model Context Protocol (MCP)** to build autonomous systems. 
+I specialize in developing LLM-driven systems using **LangChain**, building multi-agent workflows with **CrewAI**, and translating raw data into actionable insights through **SQL**, **Power BI**, and **Tableau**. I enjoy working at the intersection of AI and data - where intelligent agents meet real business problems.
+
+I am constantly upskilling and currently exploring **AgenticAI**, agentic workflows using **CrewAI** and **Model Context Protocol (MCP)** to build autonomous systems..
 
 ---
 
-### Tech Stack
+## Tech Stack
+### Languages & Frameworks
 
-####  Generative AI & LLM Orchestration
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Generative%20AI-000000?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangSmith-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/CrewAI-FB542B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Groq-F54A00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Gemma-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Meta%20Llama-0467DF?style=flat-square&logo=meta&logoColor=white" />
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+
 </div>
 
-####  Vector Stores & Databases
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/ChromaDB-FA5252?style=flat-square" />
-  <img src="https://img.shields.io/badge/FAISS-00758F?style=flat-square" />
-  <img src="https://img.shields.io/badge/AstraDB-5A29E4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphDB-B31B1B?style=flat-square" />
+---
+### Generative AI & LLM Orchestration
+
+<div align="center">
+
+
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FB542B?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq-F54A00?style=for-the-badge&logoColor=white)
+![Gemma](https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![NVIDIA NIM](https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Meta Llama](https://img.shields.io/badge/Meta%20Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
 </div>
 
-####  Backend, Cloud & Deployment
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+---
+
+### Vector Stores & Databases
+
+<div align="center">
+
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FA5252?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00758F?style=for-the-badge&logoColor=white)
+![AstraDB](https://img.shields.io/badge/AstraDB-5A29E4?style=for-the-badge&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![GraphDB](https://img.shields.io/badge/GraphDB-B31B1B?style=for-the-badge&logoColor=white)
+
 </div>
 
-####  Techniques & Architecture
+---
+
+
+
+### Data Analytics & Visualization
+
+<div align="center">
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+### Techniques & Architecture
+
+<div align="center">
 
 | Domain | Competencies |
-| :--- | :--- |
-| **Model Optimization** | <kbd>Fine-Tuning</kbd> <kbd>PEFT</kbd> <kbd>LoRA</kbd> <kbd>QLoRA</kbd> |
-| **Architectures** | <kbd>RAG</kbd> <kbd>Model Context Protocol (MCP)</kbd> <kbd>Agents</kbd> |
-| **NLP Core** | <kbd>Embeddings</kbd> <kbd>Vector Search</kbd> <kbd>Text Analytics</kbd> |
+| :---: | :--- |
+| **Model Optimization** | `Fine-Tuning` `PEFT` `LoRA` `QLoRA` |
+| **AI Architecture** | `RAG` `Agentic Workflows` `MCP` `Multi-Agent Systems` |
+| **NLP Core** | `Embeddings` `Vector Search` `Text Analytics` `Semantic Search` |
+| **Data Analysis** | `EDA` `Statistical Analysis` `Dashboard Design` `Data Storytelling` |
+
+</div>
+
+---
 
 
+## Get in Touch 
 
+<div align="center">
 
+[![Website](https://img.shields.io/badge/Website-amteshwarsingh.com-669bbc?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amteshwarsingh.com)
+[![Email](https://img.shields.io/badge/Email-amteshwars091@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amteshwars091@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+</div>
